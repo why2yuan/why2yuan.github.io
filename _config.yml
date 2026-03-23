@@ -1,0 +1,1 @@
+title: My GitHub Blog\ndescription: A minimal GitHub-style blog theme\nauthor: why2yuan\nurl: https://why2yuan.github.io\nbaseurl: ""\nexclude: ["Gemfile", "Gemfile.lock"]\nplugins: [jekyll-feed]
