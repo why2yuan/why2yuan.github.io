@@ -4,7 +4,7 @@ title: 文章归档
 permalink: /archive/
 ---
 
-# 📚 文章归档
+# 往期文章
 
 ## 所有文章
 
