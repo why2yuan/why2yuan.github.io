@@ -1,10 +1,20 @@
-# Welcome to My Blog
+---
+layout: home
+---
 
-Welcome to my blog! Here you'll find the latest updates and posts about my projects and thoughts.
+# 👋 欢迎来到我的博客
 
-## Latest Posts
-1. Example Post 1
-2. Example Post 2
-3. Example Post 3
+这是一个专注于技术分享和知识积累的个人博客空间。
 
-Stay tuned for more interesting content!
+## 📚 内容分类
+
+- **💻 编程技术** - 分享编程实践和最佳实践
+- **🔧 开源项目** - 记录开源项目的开发历程  
+- **📖 学习笔记** - 技术学习过程中的总结
+- **🎯 技术思考** - 对技术问题的深入思考
+
+## 🔗 快速导航
+
+- [📄 查看所有文章](/archive.html)
+- [👤 关于我](/about.html)
+- [🐙 GitHub](https://github.com/why2yuan)
