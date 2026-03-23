@@ -1,1 +1,16 @@
-title: My GitHub Blog\ndescription: A minimal GitHub-style blog theme\nauthor: why2yuan\nurl: https://why2yuan.github.io\nbaseurl: ""\nexclude: ["Gemfile", "Gemfile.lock"]\nplugins: [jekyll-feed]
+title: My Blog
+subtitle: A place to share my thoughts
+author: why2yuan
+description: This is my Jekyll blog
+url: https://why2yuan.github.io
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
